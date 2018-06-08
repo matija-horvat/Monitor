@@ -1,0 +1,1 @@
+Data source=JUPITER2008R2;Initial Catalog=Pekarstvo;User ID=sa;Password=

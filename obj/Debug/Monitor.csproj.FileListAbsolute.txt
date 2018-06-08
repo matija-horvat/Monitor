@@ -1,0 +1,36 @@
+C:\Users\mhorvat\Documents\Visual Studio 2012\Projects\Main\Monitor\obj\Debug\Monitor.csprojResolveAssemblyReference.cache
+C:\Users\mhorvat\Documents\Visual Studio 2012\Projects\Main\Monitor\obj\Debug\Monitor.Properties.Resources.resources
+C:\Users\mhorvat\Documents\Visual Studio 2012\Projects\Main\Monitor\obj\Debug\Monitor.csproj.GenerateResource.Cache
+C:\Users\mhorvat\Documents\Visual Studio 2012\Projects\Main\Monitor\obj\Debug\Monitor.exe.licenses
+C:\Users\mhorvat\Documents\Visual Studio 2012\Projects\Main\Monitor\bin\Debug\Monitor.exe
+C:\Users\mhorvat\Documents\Visual Studio 2012\Projects\Main\Monitor\bin\Debug\Monitor.pdb
+C:\Users\mhorvat\Documents\Visual Studio 2012\Projects\Main\Monitor\obj\Debug\Monitor.exe
+C:\Users\mhorvat\Documents\Visual Studio 2012\Projects\Main\Monitor\obj\Debug\Monitor.pdb
+C:\Users\mhorvat\Documents\Visual Studio 2012\Projects\Main\Monitor\obj\Debug\Monitor.ScriptsUpdate.resources
+C:\Users\mhorvat\Documents\Visual Studio 2012\Projects\Main\Monitor\obj\Debug\Monitor.ScriptView.resources
+C:\Users\mhorvat\Documents\Visual Studio 2012\Projects\Main\Monitor\obj\Debug\Monitor.DestinationConn.resources
+C:\Users\mhorvat\Documents\Visual Studio 2012\Projects\Main\Monitor\obj\Debug\Monitor.SourceConn.resources
+C:\Users\mhorvat\Documents\Visual Studio 2012\Projects\Main\Monitor\obj\Debug\Monitor.Run.resources
+C:\Users\mhorvat\Documents\Visual Studio 2012\Projects\Main\Monitor\obj\Debug\Monitor.Results.resources
+C:\Users\mhorvat\Documents\Visual Studio 2012\Projects\Main\Monitor\obj\Debug\Monitor.MessageErrorDialog.resources
+C:\Users\mhorvat\Documents\Visual Studio 2012\Projects\Main\Monitor\obj\Debug\Monitor.ScriptView2.resources
+C:\Users\mhorvat\Documents\Visual Studio 2012\Projects\Main\Monitor\obj\Debug\Monitor.RunLive.resources
+C:\Users\mhorvat\Documents\TFS\App\Main\Monitor\bin\Debug\Monitor.exe
+C:\Users\mhorvat\Documents\TFS\App\Main\Monitor\obj\Debug\Monitor.csprojResolveAssemblyReference.cache
+C:\Users\mhorvat\Documents\TFS\App\Main\Monitor\obj\Debug\Monitor.DestinationConn.resources
+C:\Users\mhorvat\Documents\TFS\App\Main\Monitor\obj\Debug\Monitor.MessageErrorDialog.resources
+C:\Users\mhorvat\Documents\TFS\App\Main\Monitor\obj\Debug\Monitor.Properties.Resources.resources
+C:\Users\mhorvat\Documents\TFS\App\Main\Monitor\obj\Debug\Monitor.Results.resources
+C:\Users\mhorvat\Documents\TFS\App\Main\Monitor\obj\Debug\Monitor.Run.resources
+C:\Users\mhorvat\Documents\TFS\App\Main\Monitor\obj\Debug\Monitor.RunLive.resources
+C:\Users\mhorvat\Documents\TFS\App\Main\Monitor\obj\Debug\Monitor.ScriptsUpdate.resources
+C:\Users\mhorvat\Documents\TFS\App\Main\Monitor\obj\Debug\Monitor.ScriptView.resources
+C:\Users\mhorvat\Documents\TFS\App\Main\Monitor\obj\Debug\Monitor.ScriptView2.resources
+C:\Users\mhorvat\Documents\TFS\App\Main\Monitor\obj\Debug\Monitor.SourceConn.resources
+C:\Users\mhorvat\Documents\TFS\App\Main\Monitor\obj\Debug\Monitor.csproj.GenerateResource.Cache
+C:\Users\mhorvat\Documents\TFS\App\Main\Monitor\obj\Debug\Monitor.exe.licenses
+C:\Users\mhorvat\Documents\TFS\App\Main\Monitor\obj\Debug\Monitor.exe
+C:\Users\mhorvat\Documents\TFS\App\Main\Monitor\obj\Debug\Monitor.pdb
+C:\Users\mhorvat\Documents\TFS\App\Main\Monitor\bin\Debug\Monitor.pdb
+C:\Users\mhorvat\Documents\TFS\App\Main\Monitor\obj\Debug\Monitor.Deadlocks.resources
+C:\Users\mhorvat\Documents\TFS\App\Main\Monitor\bin\Debug\DevExpress.Sparkline.v13.1.Core.dll
